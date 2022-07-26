@@ -1,0 +1,3638 @@
+{
+  "success": true,
+  "data": {
+    "output": [
+      {
+        "indicator": {
+          "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+          "value": "Number Knowledge",
+          "rank": 1,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": {
+              "goalId": "1cccc5bd-3e88-4f57-8872-2cb0a911f8ea",
+              "intro": "<p>Understands and uses number knowledge at Year 0.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+                "value": "Pre-National Standards",
+                "rank": 1
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "a67c6982-072b-4896-8fe8-b8e798fb4e26",
+                  "title": "Number Identification (0-10): Identifies and writes numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "cb0dac10-204c-4fc2-938e-0843aa010b32",
+                  "title": "Number Sequence and Order (0-10): Counts forwards in ones and says the number after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "8ed27720-07c7-45b3-b97d-76ecac44ca28",
+                  "title": "Number Sequence and Order (0-10): Counts backwards in ones and says the number before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "e47589ba-1853-4b40-a0c2-49cf94a3b40e",
+                  "title": "Number Sequence and Order (0-10): Orders numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "049b5ab4-9281-47e0-956a-8d033010c2ba",
+                  "title": "Grouping and Basic Facts: Recognises patterns to 5, including finger and dice patterns.",
+                  "content": "n",
+                  "rank": 5
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": {
+              "goalId": "8398e568-9d82-4439-aec5-303ec696ec0b",
+              "intro": "<p>Understands and uses number knowledge at Year 1.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+                "value": "After 1 Year at School",
+                "rank": 2
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "f329e6f4-cc03-466b-84f0-c193fe5bc87d",
+                  "title": "Number Identification (0-20): Identifies and writes numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "76216733-0215-430b-97a7-1b683cab8859",
+                  "title": "Number Sequence and Order (0-20): Counts forwards in ones and says the number after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "235b9453-7449-4801-b926-44e99a4fc944",
+                  "title": "Number Sequence and Order (0-20): Counts backwards in ones and says the number before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "ccf04da0-e5be-490a-a8c1-8a694d9125cf",
+                  "title": "Number Sequence and Order (0-20): Orders numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "467561dd-188e-4309-8b33-03a7a0af42a3",
+                  "title": "Number Sequence and Order (0-20): Skip counts in twos and fives.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "7a1180ce-9ad8-4dee-ab05-13f53dfcf2e9",
+                  "title": "Place Value: Explains the place value of ones.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "052be945-0296-47b1-86d7-437c20c14f3c",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 5.",
+                  "content": "y",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "ade818a9-3f90-424e-ab91-71d64a07b177",
+                  "title": "Groupings and Basic Facts: Recalls addition facts to 5.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "ec52d514-ef9c-4cb2-a817-a513651c565b",
+                  "title": "Groupings and Basic Facts: Recalls subtraction facts to 5.",
+                  "content": "n",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "e24a372c-2d23-4ff2-bd8e-b9cec793e7e1",
+                  "title": "Groupings and Basic Facts: Recalls groupings with 5.",
+                  "content": "n",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "c2cffe63-3624-4aea-8fb9-b38194c92f11",
+                  "title": "Groupings and Basic Facts Recalls groupings within 10.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "845057f3-44d7-4738-a97b-c7212553b69d",
+                  "title": "Groupings and Basic Facts: Recalls doubles to 10 and the corresponding halves.",
+                  "content": "n",
+                  "rank": 12
+                },
+                {
+                  "subIndicatorId": "a5032cdc-19b4-473f-9a35-e18b6a1d6ccd",
+                  "title": "Groupings and Basic Facts: Recognises patterns to 10, including finger and dice patterns.",
+                  "content": "n",
+                  "rank": 13
+                },
+                {
+                  "subIndicatorId": "a74f41ab-d887-453d-af50-12f076c0e848",
+                  "title": "Fractional Knowledge: Identifies the numerator and the denominator.",
+                  "content": "n",
+                  "rank": 14
+                },
+                {
+                  "subIndicatorId": "50ec4556-38a6-45df-91f4-d948466562ab",
+                  "title": "Fractional Knowledge: Identifies, writes and draws the symbols for 1/2, 1/3 and 1/4.",
+                  "content": "n",
+                  "rank": 15
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": {
+              "goalId": "100bf5a4-f721-4ef9-99c3-8c5c5b32766a",
+              "intro": "<p>Understands and uses number knowledge at Year 2.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+                "value": "After 2 Years at School",
+                "rank": 3
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "7ed793f9-593b-4b47-8bd1-8654eb4d6126",
+                  "title": "Number Identification (0-100): Identifies and writes numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "d9a961bf-d622-49ec-9dec-0463d5f0568c",
+                  "title": "Number Sequence and Order (0-100): Counts forwards in ones and says the number after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "42ecb388-f92f-4d73-a54c-df1175f07b57",
+                  "title": "Number Sequence and Order (0-100): Counts backwards in ones and says the number before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "2a3ec196-93c6-410c-8d47-ebb93e9cecab",
+                  "title": "Number Sequence and Order (0-100): Orders numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "5ead4fea-e1ac-4b82-ba49-9baf03523998",
+                  "title": "Number Sequence and Order (0-100): Skip counts in twos, fives and tens.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "089a7eb1-199e-4766-ac86-fc3caa2837a9",
+                  "title": "Number Sequence and Order (0-100): Rounds two-digit numbers to the nearest ten.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "a96c6e99-bf3c-43a0-bb14-b14683d06cd4",
+                  "title": "Place Value: Explains the place value of tens.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "473cf250-be54-4b2c-af90-1a201184951c",
+                  "title": "Place Value: Recalls the number of tens in decades.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "767ee69c-77d1-490a-9315-a01db092ba69",
+                  "title": "Groupings and Basic Facts: Recalls addition facts to 10.",
+                  "content": "y",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "1782764f-0dfa-49d7-9d2e-53873da3e494",
+                  "title": "Groupings and Basic Facts: Recalls subtraction facts to 10.",
+                  "content": "y",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "c87e8796-505e-42f8-b59f-009ba45aba53",
+                  "title": "Groupings and Basic Facts: Recalls groupings with 10.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "5c29a6dd-577f-4724-ba1a-fb9ca39744d2",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 20.",
+                  "content": "y",
+                  "rank": 12
+                },
+                {
+                  "subIndicatorId": "ba5f92dc-b317-4f27-bcd0-9be1ef33a260",
+                  "title": "Groupings and Basic Facts: Recalls doubles to 20 and the corresponding halves.",
+                  "content": "n",
+                  "rank": 13
+                },
+                {
+                  "subIndicatorId": "422699e3-c1e0-4761-ab43-3e7f14e342de",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 100 - multiples of 10.",
+                  "content": "y",
+                  "rank": 14
+                },
+                {
+                  "subIndicatorId": "db75c1de-389e-44c2-a031-b25021e67c7c",
+                  "title": "Fractional Knowledge: Explains the purpose of the numerator and the denominator.",
+                  "content": "n",
+                  "rank": 15
+                },
+                {
+                  "subIndicatorId": "82c16c6b-56ef-497f-8869-c96d50b95879",
+                  "title": "Fractional Knowledge: Identifies, writes and draws the symbols for halves, thirds, quarters and fifths.",
+                  "content": "n",
+                  "rank": 16
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": {
+              "goalId": "1e90b144-44e7-48f5-b2a7-6d5ac3a58502",
+              "intro": "<p>Understands and uses number knowledge at Year 3.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+                "value": "After 3 Years at School",
+                "rank": 4
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "8249f81f-9680-4273-b3a2-e936f5efcf35",
+                  "title": "Number Identification (0-1 000): Identifies and writes numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "e8c143be-9080-44fb-9a5a-fdac23a066b6",
+                  "title": "Number Sequence and Order (0-1 000): Counts forwards in ones, tens and hundreds and says the number one, ten and a hundred after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "61e50490-2f0a-4849-a654-b1a98d1e4a86",
+                  "title": "Number Sequence and Order (0-1 000): Counts backwards in ones, tens and hundreds and says the number one, ten and a hundred before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "18ae7df0-afd2-4f04-8928-35fc75a38bf2",
+                  "title": "Number Sequence and Order (0-1 000): Order numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "1b1d54fd-ac51-4b19-bc5c-bd442e610a8d",
+                  "title": "Number Sequence and Order (0-1 000): Rounds three-digit numbers to the nearest ten and hundred.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "03255a42-a260-4fcd-a719-668106b9890d",
+                  "title": "Place Value: Explains the place value of hundreds.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "f63b7bdf-6e38-42cf-b67e-d3ac4923b4fd",
+                  "title": "Place Value: Recalls the number of tens and hundreds in three-digit numbers.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "e5888170-2278-4710-b97d-a33d8f7e1861",
+                  "title": "Groupings and Basic Facts: Recalls addition facts to 20.",
+                  "content": "y",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "023924db-62d2-4f87-9fe7-8c063861ef3d",
+                  "title": "Groupings and Basic Facts: Recalls subtraction facts to 20.",
+                  "content": "y",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "c45c836e-85f4-47dc-8ac8-fc5bb73d8454",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 100 - multiples of 5.",
+                  "content": "y",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "5273a443-c3c5-4f01-a32c-aa0c06f8dad6",
+                  "title": "Fractional Knowledge: Identifies, writes and draws the symbols for most common fractions.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "1c9f337d-e58f-484e-bdad-8dce7b27ff3b",
+                  "title": "Fractional Knowledge: Orders fractions with like denominators.",
+                  "content": "n",
+                  "rank": 12
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": {
+              "goalId": "b7ee4f63-237b-4f0f-9036-c9ec6007cb4b",
+              "intro": "<p>Understands and uses number knowledge at Year 4.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+                "value": "Year 4",
+                "rank": 5
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "6ef8a251-523b-4472-8e27-c1d15a0bf779",
+                  "title": "Number Identification (0-10 000): Identifies and writes numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "e3fc9a0a-15cb-469e-aeca-33811d2f7294",
+                  "title": "Number Sequence and Order (0-10 000): Counts forwards in ones, tens, hundreds and thousands and says the number one, ten, a hundred and a thousand after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "a2af0bf1-8dd7-40a8-a77f-5aaa14bf844e",
+                  "title": "Number Sequence and Order (0-10 000): Counts backwards in ones, tens, hundreds and thousands and says the number one, ten, a hundred and a thousand before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "f3d75b39-8aa3-44c4-880e-e7292024ca8e",
+                  "title": "Number Sequence and Order (0-10 000): Order numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "339c7ade-08fe-4c1a-8767-dcaa7f60f9e0",
+                  "title": "Number Sequence and Order (0-10 000): Rounds four-digit numbers to the nearest ten, hundred and thousand.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "fea0cd0f-6db2-422a-b549-66e45698d990",
+                  "title": "Place Value: Explains the place value of thousands.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "20302c37-933d-40cc-8f9c-9746bd939907",
+                  "title": "Place Value: Recalls the number of tens, hundreds and thousands in four-digit numbers.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "6afe98e9-8774-4555-9091-f698aecc36f6",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 100.",
+                  "content": "y",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "654cd2e4-896f-4c8c-bb80-2e1195051354",
+                  "title": "Groupings and Basic Facts: Recalls Groupings within 1 000 - multiples of 100.",
+                  "content": "y",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "99d5862a-ec61-4aa9-8ca1-4fe94ee3a693",
+                  "title": "Groupings and Basic Facts: Recalls 2x, 5x, and 10x multiplication facts and the corresponding division facts.",
+                  "content": "y",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "e263626d-8cf4-46a8-b7f9-75c2345732a2",
+                  "title": "Fractional Knowledge: Identifies, writes and draws the symbols for improper fractions.",
+                  "content": "n",
+                  "rank": 12
+                },
+                {
+                  "subIndicatorId": "c1c10cb6-d6b4-49f1-936d-e818b3548190",
+                  "title": "Fractional Knowledge: Orders unit fractions.",
+                  "content": "n",
+                  "rank": 13
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": {
+              "goalId": "8d07867d-445d-471c-99df-af7ed2fdc23d",
+              "intro": "<p>Understands and uses number knowledge at Year 5.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+                "value": "Year 5",
+                "rank": 6
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "7041ef63-aea0-4b80-a4b6-2f1d56ac2ee3",
+                  "title": "Number Identification (0-100 000): Identifies and writes numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "dd22f024-342f-49b3-b1d9-1d0b2d315c69",
+                  "title": "Number Sequence and Order (0-100 000): Counts forwards in ones, tens, hundreds and thousands and says the number one, ten, a hundred and a thousand after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "e6a5a160-ca0e-42ba-a1c4-38eb201af0ec",
+                  "title": "Number Sequence and Order (0-100 000): Counts backwards in ones, tens, hundreds and thousands and says the number one, ten, a hundred and a thousand before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "2b77db3c-5a89-4c0e-be24-a8b62362d65d",
+                  "title": "Number Sequence and Order (0-100 000): Orders numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "f83607ad-6428-40d5-acfa-e6ac3afc0184",
+                  "title": "Number Sequence and Order (0-100 000): Rounds five-digit numbers to the nearest ten, hundred, thousand and ten thousand.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "a570c352-e645-46e5-af14-b5760bdaa89d",
+                  "title": "Place Value: Explains the place value of ten thousands.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "0c9d6aff-467b-4928-888f-8a5026e09af9",
+                  "title": "Place Value: Recalls the number of tens, hundreds and thousands in five-digit numbers.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "57c1187b-7804-4306-a97b-13f48a030ffe",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 1 000 - multiples of 10.",
+                  "content": "y",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "8a03c548-bbbd-4259-b463-100cce4be59a",
+                  "title": "Groupings and Basic Facts: Recalls multiplication facts to 10 and the corresponding division facts.",
+                  "content": "y",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "b61fa4d2-29fd-46d0-8a59-442429d868ef",
+                  "title": "Fractional Knowledge: Explains the difference between proper, improper and mixed fractions.",
+                  "content": "n",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "1f86d9da-ee56-4d5c-855e-c204ca3fa8fc",
+                  "title": "Fractional Knowledge: Identifies, writes and draws the symbols for all proper, improper  and mixed fractions.",
+                  "content": "n",
+                  "rank": 11
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": {
+              "goalId": "8937c52a-d3be-4ca0-8dfd-4951518d79f9",
+              "intro": "<p>Understands and uses number knowledge at Year 6.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+                "value": "Year 6",
+                "rank": 7
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "e0a6eae2-565a-4af1-83fd-3430960254d6",
+                  "title": "Number Identification: Identifies and writes all whole numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "ef911bdd-220a-423b-b9f9-1332a9b761bc",
+                  "title": "Number Sequence and Order: With any whole number, counts forwards in ones, tens, hundreds, thousands, millions, billions, etc. and says the number one, ten, a hundred, a thousand, a million, a billion, etc. after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "7df061f5-fa26-4cc6-9223-169f18683967",
+                  "title": "Number Sequence and Order: With any whole number, counts backwards in ones, tens, hundreds, thousands, millions, billions, etc. and says the number one, ten, a hundred, a thousand, a million, a billion, etc. before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "da0ba615-5187-4e80-a7a9-fb10d71f0946",
+                  "title": "Number Sequence and Order: Orders all whole numbers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "01359042-7a6e-4bdd-a51a-fd0ae1b21780",
+                  "title": "Number Sequence and Order (all numbers): Rounds any whole number to the nearest ten, hundred, thousand, million, billion, etc.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "7e8639a1-6aeb-44c5-a9f9-ba7351be48cc",
+                  "title": "Place value: Explains the place value of each digit in any whole number.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "0519cd1b-59a4-41f5-bfee-06a7c918d807",
+                  "title": "Place Value: Recalls the number of tens, hundreds, thousands, millions, billions, etc. in any whole number.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "2da3ac21-27e8-4993-8510-9bc7531aad37",
+                  "title": "Groupings and Basic Facts: Recalls groupings within 1 000.",
+                  "content": "y",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "104c3d03-b616-408d-85ec-23d9a3543d5c",
+                  "title": "Basic Facts: Recalls multiplication facts with tens, hundreds and thousands.",
+                  "content": "y",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "53eb2392-fb2c-465c-9dd8-aa9e676ef333",
+                  "title": "Fractional Knowledge: Writes the forwards and backwards sequences for all fractions.",
+                  "content": "n",
+                  "rank": 10
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": {
+              "goalId": "a22cc6da-18da-4e6c-8499-e2820e917ee6",
+              "intro": "<p>Understands and uses number knowledge at Year 7.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+                "value": "Year 7",
+                "rank": 8
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "cf362c23-fde9-4c56-9a35-86553e97b1c9",
+                  "title": "Number Identification: Identifies and writes decimal numbers to three places.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "62edbfc7-cfd7-4656-b959-15eb401d7754",
+                  "title": "Number Sequence and Order: With decimal numbers to three places, counts forwards in tenths, hundredths and thousandths and says the number one-tenth, one-hundredth, and one-thousandth after a given number.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "b5f61dc3-6e02-47bf-bf0c-50baf02e80c3",
+                  "title": "Number Sequence and Order: With decimal numbers to three places, counts backwards in tenths, hundredths and thousandths and says the number one-tenth, one-hundredth, and one-thousandth before a given number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "1405476c-0d3f-4510-8c74-d749146adc33",
+                  "title": "Number Sequence and Order: Orders all decimal numbers to three places.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "a86328a0-ccb6-46e1-8fd8-82254c03035f",
+                  "title": "Number Sequence and Order: Rounds all decimal numbers to the nearest tenth, hundredth, and thousandth.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "12737784-c1ba-45ec-bb4f-8e70fabbb3ed",
+                  "title": "Place Value: Explains the place value of tenths, hundredths and thousandths.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "02e6fe4c-cd5b-4b36-9441-2ea98d60113d",
+                  "title": "Place Value: Recalls the number of tenths, hundredths and thousandths in one.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "cd0d81f4-654d-4b49-a8cf-23c422db4a1e",
+                  "title": "Groupings and Basic Facts: Recalls division facts with tens, hundreds and thousands.",
+                  "content": "y",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "099663fc-52cf-42fc-9fe4-f6efd96f1cd8",
+                  "title": "Groupings and Basic Facts: Recalls square numbers to 100 and the corresponding roots.",
+                  "content": "y",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "c353d620-282b-4b47-887b-e4d21832719a",
+                  "title": "Groupings and Basic Facts: Recalls factors of numbers to 100, including the highest common factor.",
+                  "content": "y",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "9836cc04-75a4-4f36-bfa4-f7273346670d",
+                  "title": "Groupings and Basic Facts: Recalls common multiples of numbers to 10, including the least common multiple.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "85d84dca-9d3e-4e72-9c5b-f558be37fe4a",
+                  "title": "Fractional Knowledge: Orders all fractions.",
+                  "content": "n",
+                  "rank": 12
+                },
+                {
+                  "subIndicatorId": "816399ea-58de-4bff-86ab-9d2f80a6b295",
+                  "title": "Fractional Knowledge: Recalls equivalent fractions.",
+                  "content": "n",
+                  "rank": 13
+                },
+                {
+                  "subIndicatorId": "91712471-ce64-49fa-94cc-98e689a9f575",
+                  "title": "Fractional Knowledge: Recalls fraction / decimal / percentage conversions for halves, thirds, quarters, fifths and tenths.",
+                  "content": "n",
+                  "rank": 14
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": {
+              "goalId": "eafd0d60-7492-4d2f-b491-7c71adba9bcd",
+              "intro": "<p>Understands and uses number knowledge at Year 8.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "3e15925b-2d16-40a7-ac10-a7b0bc3622cc",
+                "value": "Number Knowledge",
+                "rank": 1,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+                "value": "Year 8",
+                "rank": 9
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "ebc457d3-9a9c-4c12-be54-06c9023df827",
+                  "title": "Number Identification: Identifies and writes Roman Numerals.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "f0f63dc0-e237-482a-9858-2fea22993a52",
+                  "title": "Number Sequence and Order: Writes the forwards and backwards sequences for numbers with powers of ten.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "c251c61e-cb2a-40d6-9de7-8263a0ae7aa5",
+                  "title": "Number Sequence and Order: Orders numbers with powers of ten.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "b6686d51-a0f1-4bdc-a432-af3859e887fc",
+                  "title": "Place Value: Recalls the number of tenths, hundredths and thousandths in decimal numbers to three places.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "383865a2-5e06-4953-b42d-12f1b1e2d21e",
+                  "title": "Groupings and Basic Facts: Recalls common divisibility rules.",
+                  "content": "y",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "e0dafb27-8c0c-48ee-b6e5-fc0506f3441a",
+                  "title": "Groupings and Basic Facts: Recalls simple powers of numbers to 10.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "edf992b3-52b5-4e18-8f13-562a2d2f054b",
+                  "title": "Groupings and Basic Facts: Recalls what happens when a whole number or decimal number is multiplied or divided by a power of 10.",
+                  "content": "y",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "02b1b4b7-79c8-4922-9069-c2581e8241a5",
+                  "title": "Fractional Knowledge: Orders fractions, decimals and percentages.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "9c15a71c-b52a-4579-b988-60d1d2772f9b",
+                  "title": "Recalls fraction / decimal / percentage conversions for given fractions, decimals and percentages.",
+                  "content": "n",
+                  "rank": 9
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+          "value": "Number Strategy",
+          "rank": 2,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": {
+              "goalId": "cd906b1e-d825-4e13-b5ff-50b1aa519f90",
+              "intro": "<p>Uses one-to-one counting.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+                "value": "Pre-National Standards",
+                "rank": 1
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "4ed6e4dc-4556-4fc4-bdda-66917abc4d34",
+                  "title": "Counts a set of objects up to 10.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "0824e53b-8812-4db3-a901-d934a198c46a",
+                  "title": "Forms a set of objects up to 10.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": {
+              "goalId": "a02c2207-e1ba-45a4-acc7-b09e7bcca816",
+              "intro": "<p>Solves problems by counting from one at Year 1.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+                "value": "After 1 Year at School",
+                "rank": 2
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "a9500cc1-9616-4e63-bcaf-5f64e4b19321",
+                  "title": "Addition (where the sum is no higher than 20): Solves addition problems by physically counting all the objects in each group.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "6c1ae20c-6fa7-4db1-a45e-2c7dc075c2a6",
+                  "title": "Addition (where the sum is no higher than 20): Solves addition problems by mentally counting all the objects in each group.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "ae3929f2-2544-480e-b91c-a569f828c790",
+                  "title": "Subtraction (where the minuend is no higher than 20): Solves subtraction problems by physically taking away the correct number of objects and then counting what is left.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "90417826-b930-4c7b-b18e-ddd58cfab228",
+                  "title": "Subtraction (where the minuend is no higher than 20): Solves subtraction problems by mentally taking away the correct number of objects and then counting what is left.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "9942723b-6221-4f2b-bd5d-59001ca81fb6",
+                  "title": "Multiplication (where the product is no higher than 20): Solves multiplication problems by physically counting all the objects in each group.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "8fb4196c-2bfe-4d74-8a89-c651be293620",
+                  "title": "Multiplication (where the product is no higher than 20): Solves multiplication problems by mentally counting all the objects in each group.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "5bee80b4-7ca8-4eb5-befc-5ba50ce37c94",
+                  "title": "Division (where the dividend is no higher than 20): Solves division problems by physically sharing objects one at a time into equal groups.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "68f9275c-6101-420e-bbfb-5259a2a587ed",
+                  "title": "Division (where the dividend is no higher than 20): Solves division problems by mentally sharing objects one at a time into equal groups.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "409ed269-0289-48c9-9ac4-6906200453d8",
+                  "title": "Fractions: Finds 1/2, 1/3 and 1/4 of shapes.",
+                  "content": "n",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "1d522dc6-2b6b-4979-8638-298d13e9642f",
+                  "title": "Fractions: Finds 1/2, 1/3 and 1/4 of sets up to 20 by physically sharing objects one at a time into equal parts.",
+                  "content": "n",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "772781d2-a66b-4dd3-9ac4-ee5891c31ca8",
+                  "title": "Fractions: Finds 1/2, 1/3 and 1/4 of sets up to 20 by mentally sharing objects one at a time into equal parts.",
+                  "content": "n",
+                  "rank": 11
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": {
+              "goalId": "95ab934d-3beb-46ee-b5a1-70640499fd19",
+              "intro": "<p>Solves problems using advanced counting and equal sharing strategies at Year 2.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+                "value": "After 2 Years at School",
+                "rank": 3
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "3b4428a1-cac3-49ab-bc76-cbb5ea78c087",
+                  "title": "Addition (where the sum is no higher than 100): Solves addition problems by mentally counting on in ones and tens from the largest number.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "5699abe9-6645-4d86-bd6a-b4c0bf288d2c",
+                  "title": "Addition (where the sum is no higher than 100): Solves problems where the start or change is unknown.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "cef8b25d-a050-40f4-9152-a6057c58c7da",
+                  "title": "Subtraction (where the minuend is no higher than 100): Solves subtraction problems by mentally counting back in ones and tens from the largest number.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "3721c13d-9e83-4e7a-b8e0-5a1f35f5689a",
+                  "title": "Subtraction (where the minuend is no higher than 100): Solves problems where the start or change is unknown.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "0743e5c1-1aab-40ec-b964-b4f7e370c066",
+                  "title": "Multiplication (where the product is no higher than 100): Solves multiplication problems by mentally skip counting in twos, fives and tens (often in conjunction with counting in ones).",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "55691fe0-5184-4e91-96ce-6876ab701704",
+                  "title": "Division (where the dividend is no higher than 100): Solves division problems by mentally sharing objects into groups using skip counting in twos, fives and tens or trial and error (often in conjunction with counting in ones).",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "59b473e2-7ded-4ea8-b141-24630b067ba2",
+                  "title": "Fractions: Finds halves, thirds, quarters and fifths of shapes and lengths using symmetry.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "4f43b7e0-980d-458f-aee5-56546e09f9c0",
+                  "title": "Fractions: Finds halves, thirds, quarters and fifths of sets up to 100 by mentally sharing objects into equal parts using skip counting in twos, fives and tens or trial and error often in conjunction with counting in ones.",
+                  "content": "n",
+                  "rank": 8
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": {
+              "goalId": "071a2c4f-22eb-4261-aa47-2109ebdc5c5a",
+              "intro": "<p>Solves problems using a range of mental strategies at Year 3.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+                "value": "After 3 Years at School",
+                "rank": 4
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "dd44f9db-67b7-4c6f-ba40-32f06b46659d",
+                  "title": "Addition (where the sum is no higher than 100): Solves addition problems using known addition facts and knowledge of place value to combine and partition whole numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "f49ed84c-d117-448f-936a-9b1e2aba4df8",
+                  "title": "Addition (where the sum is no higher than 100): Estimates the answers to addition questions.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "07a6a764-8f98-4bce-8bde-11874971e310",
+                  "title": "Subtraction (where the minuend is no higher than 100): Solves subtraction problems using known subtraction facts and knowledge of place value to combine and partition whole numbers.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "9b8ed176-b1ad-4d69-a462-6f8632f80e91",
+                  "title": "Subtraction (where the minuend is no higher than 100): Estimates the answers to subtraction questions.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "921d12fb-7f25-4b7a-8cc0-a9cab56bba40",
+                  "title": "Multiplication: Solves multiplication problems using repeated addition.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "5c062b9c-21ae-4d11-98d1-77b67bcf81c9",
+                  "title": "Division: Solves division problems using repeated addition or subtraction.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "8ffeb9d1-3f1b-4e74-85fe-236ac11768bc",
+                  "title": "Fractions: Finds unit fractions of sets using known addition facts and halving.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "999b5d3f-d497-436d-82f5-effdd7411de2",
+                  "title": "Fractions (most common fractions): Finds fractions of regions using halving to divide the area into equal parts.",
+                  "content": "n",
+                  "rank": 8
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": {
+              "goalId": "748487dd-63df-40f7-8b0c-860bbf2e7580",
+              "intro": "<p>Solves problems using a range of mental strategies at Year 4.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+                "value": "Year 4",
+                "rank": 5
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "3b9cb02a-33d0-482b-be22-5e78e2971c61",
+                  "title": "Addition (where the sum is no higher than 1 000): Estimates answers and solves addition problems using known addition facts and knowledge of place value to combine and partition whole numbers appropriately.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "e586a093-1706-4dde-be6c-8f97a6f57a29",
+                  "title": "Subtraction (where the minuend is no higher than 1 000): Estimates answers and solves subtraction problems using known subtraction facts and knowledge of place value to combine and partition whole numbers appropriately.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "625c2397-0ffc-426f-ae58-b2aa9f67989e",
+                  "title": "Multiplication: Solves multiplication problems using 2x, 5x, 10x multiplication facts and repeated addition.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "9b49bcee-7f4a-403c-89bc-f2385734ba26",
+                  "title": "Division: Solves division problems using 2x, 5x, 10x multiplication facts, ÷2, ÷5, ÷10 division facts and repeated addition or subtraction.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "aad73da1-c700-4dd2-84c6-29d6baf9af67",
+                  "title": "Fractions: Finds unit fractions of sets using 2x, 5x, 10x multiplication facts, ÷2, ÷5, ÷10 division facts, addition facts and halving.",
+                  "content": "n",
+                  "rank": 5
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": {
+              "goalId": "190ffa32-87f9-4066-b3de-89e029853d79",
+              "intro": "<p>Solves problems using a broad range of mental strategies at Year 5.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+                "value": "Year 5",
+                "rank": 6
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "6accfbee-df10-4050-9635-968893db36d5",
+                  "title": "Addition (where the sum is no higher than 1 000): Solves addition problems using a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "16225ccf-8b0a-4515-a576-97d3e5717386",
+                  "title": "Addition (where the sum is no higher than 1 000): Uses estimation to check whether answers are likely to be correct.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "32ad6cc5-c148-433c-9e37-771b03368242",
+                  "title": "Subtraction (where the minuend is no higher than 1 000): Solves subtraction problems using a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "c62262bb-1b5a-42bf-9ea6-19bdd3208eee",
+                  "title": "Subtraction (where the minuend is no higher than 1 000): Uses estimation to check whether answers are likely to be correct.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "bcf2e96c-4796-4d34-b2ab-16c4a3731d7d",
+                  "title": "Multiplication: Solves multiplication problems using a combination of known facts and mental strategies.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "f9cb4747-b8e0-4f31-95a2-605be8abef22",
+                  "title": "Division: Solves division problems using a combination of known facts and mental strategies.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "7fb516e1-af54-4222-bfad-1d4b34ef5897",
+                  "title": "Fractions: Finds fractions of continuous shapes using symmetry.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "1c586711-c7ec-4993-b514-0daf9861ec6c",
+                  "title": "Fractions: Converts improper fractions into mixed numbers and vice versa.",
+                  "content": "n",
+                  "rank": 8
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": {
+              "goalId": "221811c9-3cfc-4059-86a5-4b6f3470d25c",
+              "intro": "<p>Solves problems using a broad range of mental strategies at Year 6.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+                "value": "Year 6",
+                "rank": 7
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "feee51c9-15fc-4cca-86e0-1936ee4f83db",
+                  "title": "Addition (whole numbers): Solves long addition problems using standard written form.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "d8bf98d1-dcda-4dc6-896a-c427feabfd25",
+                  "title": "Addition (whole numbers): Estimates answers and solves addition problems efficiently by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "ff084872-33a4-4dd5-baa1-f82eff0a514a",
+                  "title": "Subtraction (whole numbers): Solves long subtraction problems using standard written form.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "5a4e49e8-0904-438f-9f25-83939698326b",
+                  "title": "Subtraction (whole numbers): Estimates answers and solves subtraction problems efficiently by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "f30bd71e-f3e7-48ef-98e9-ef33fb7c5c0f",
+                  "title": "Multiplication: Solves long multiplication problems using written form.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "aa8fd364-1a48-46eb-a385-4d01ba5939cf",
+                  "title": "Multiplication: Solves multiplication problems efficiently by using a combination of appropriate basic facts and mental strategies.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "2b0be831-b530-4d58-a619-4cb9ce5b4da1",
+                  "title": "Division: Solves long division problems using written form.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "f2c9cc46-ae23-49af-85f1-07e5781574dd",
+                  "title": "Division: Solves division problems efficiently by using a combination of appropriate basic facts and mental strategies.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "b11555ef-5bf4-4b55-bc63-74ff2f0be960",
+                  "title": "Division: Solves division problems that involve remainders expressing them as whole numbers.",
+                  "content": "n",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "130e0e64-4831-4a9f-85d9-bed6d8139715",
+                  "title": "Fractions: Finds fractions of sets using known multiplication and division facts.",
+                  "content": "n",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "ecf2712f-aacd-4fb3-b0d5-d409a9d5fd71",
+                  "title": "Fractions: Solves equal sharing problems where the answer is a fraction.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "af2806ba-2672-4881-bd0e-e6088c7d12b7",
+                  "title": "Rates and Ratios: Solves simple rate and ratio problems using repeated copying.",
+                  "content": "n",
+                  "rank": 12
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": {
+              "goalId": "9628dfa2-76ff-46a7-bf95-e3620e1a6831",
+              "intro": "<p>Solves problems using a broad range of mental strategies at Year 7.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+                "value": "Year 7",
+                "rank": 8
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "2be8a8ed-974b-44d5-948c-7364d534b3b1",
+                  "title": "Addition (whole numbers and decimals): Estimates answers and solves addition problems efficiently by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "cf6f407c-a67f-41b3-be40-7036b1d2c5a1",
+                  "title": "Addition (whole numbers): Solves addition problems using multiplication and division.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "6c7a1a4d-aab5-47db-8d30-622230278cb4",
+                  "title": "Addition (fractions): Adds fractions with like denominators.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "9c04d422-3cb4-4c5f-9899-dd990a5d0606",
+                  "title": "Subtraction (whole numbers): Solves subtraction problems using multiplication and division.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "db1b8ecb-ed15-47b5-a878-f203a4bca170",
+                  "title": "Subtraction (whole numbers and decimals): Estimates answers and solves subtraction problems efficiently by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "4633882f-85f7-4031-aaa3-aec89fede563",
+                  "title": "Subtraction (fractions): Subtracts fractions with like denominators.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "b00ef920-5044-4130-a7d6-4b8f034945d3",
+                  "title": "Subtraction (whole numbers): Solves subtraction problems where the answer is less than zero (negative).",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "c1fe8551-564d-44bc-9553-2b4e7652edcb",
+                  "title": "Multiplication: Estimates answers and solves multiplication problems by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "d4c807ca-6f11-4244-8cd2-d39794b79607",
+                  "title": "Multiplication (fractions): Solve problems that involve multiplying whole numbers by fractions.",
+                  "content": "n",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "7dd90598-b8fc-4909-99cf-e9e403608a14",
+                  "title": "Division: Estimates answers and solves division problems by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "01fd8e6d-b02d-4639-8333-11c8234d42a6",
+                  "title": "Division: Solve problems that involve dividing whole numbers by fractions.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "78a66dd3-7c50-42b8-b6ef-82f6d48c218b",
+                  "title": "Division: Solves division problems that involve remainders expressing them as whole numbers, fractions or decimals.",
+                  "content": "n",
+                  "rank": 12
+                },
+                {
+                  "subIndicatorId": "dcc08cb8-895d-459f-a216-8b1c23d8f180",
+                  "title": "Fractions: Finds fractions of continuous quantities using reunitising.",
+                  "content": "n",
+                  "rank": 13
+                },
+                {
+                  "subIndicatorId": "92164d58-d724-403b-abe5-1db90e3fbc05",
+                  "title": "Rates and Ratios: Solves ratio problems using multiplication and division and express them as equivalent fractions.",
+                  "content": "n",
+                  "rank": 14
+                },
+                {
+                  "subIndicatorId": "1e6eb2ff-7a7e-434f-baae-fe2db864a250",
+                  "title": "Rates and Ratios: Solves simple rate problems using multiplication.",
+                  "content": "n",
+                  "rank": 15
+                },
+                {
+                  "subIndicatorId": "4268f449-ca05-4091-98cf-cc0fc0f8fc18",
+                  "title": "Percentages: Estimates and finds percentages of whole number amounts using benchmark percentages.",
+                  "content": "n",
+                  "rank": 16
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": {
+              "goalId": "aaa7202b-df3b-45d9-8a95-4737e0b65877",
+              "intro": "<p>Solves problems using a broad range of mental strategies at Year 8.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "816f9652-d2cd-41e5-b42d-50dcd4341c97",
+                "value": "Number Strategy",
+                "rank": 2,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+                "value": "Year 8",
+                "rank": 9
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "34bae4b2-4fd2-445f-a34f-9b451fcb284d",
+                  "title": "Addition: Adds positive and negative integers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "14ed8f3d-eef8-4e2b-b3c9-19e1eb1cce27",
+                  "title": "Addition: Adds fractions with unlike denominators.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "b5f4c3ed-4683-4450-afbf-c4f955021239",
+                  "title": "Addition: Combines rates and ratios with different amounts and expresses the answer using fractions and percentages.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "f1c27844-53e4-49df-998f-ed2a34302b7b",
+                  "title": "Subtraction: Subtracts positive and negative integers.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "181d9e9f-eea3-4a03-8958-185c41a05407",
+                  "title": "Subtraction: Subtracts fractions with unlike denominators.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "0317b4cc-aad3-42ac-a551-0e3738618568",
+                  "title": "Multiplication: Estimates answers and solves multiplication problems that involve decimals by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "658e9111-6726-4f3f-92b4-652da3466107",
+                  "title": "Multiplication: Estimates answers and solves multiplication problems that involve fractions by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 7
+                },
+                {
+                  "subIndicatorId": "7b0cb2c1-e424-4dc0-9e8e-05d75398fb20",
+                  "title": "Multiplication: Solves multiplication problems that involve exponents.",
+                  "content": "n",
+                  "rank": 8
+                },
+                {
+                  "subIndicatorId": "5ebe52d0-6618-4a7a-adc7-db85d558f921",
+                  "title": "Division: Estimates answers and solves simple division problems that involve decimals by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 9
+                },
+                {
+                  "subIndicatorId": "42b47d85-562c-4670-a36d-8ed94d937898",
+                  "title": "Division: Estimates answers and solves division problems that involve fractions by choosing appropriately from a broad range of mental strategies.",
+                  "content": "n",
+                  "rank": 10
+                },
+                {
+                  "subIndicatorId": "c3e2b85f-9770-49b9-8ee0-aa5e5d4ac4f1",
+                  "title": "Division: Solves division problems that involve exponents.",
+                  "content": "n",
+                  "rank": 11
+                },
+                {
+                  "subIndicatorId": "189fb3ff-0c5a-45b7-b47a-7eb1a0c7fe4a",
+                  "title": "Division: Uses estimation to check the answer to division problems.",
+                  "content": "n",
+                  "rank": 13
+                },
+                {
+                  "subIndicatorId": "e03db885-6efd-4ea8-a942-5e07edbf3b35",
+                  "title": "Rates and Ratios: Solves ratio problems by identifying common whole number factors and expresses them as fractions and percentages.",
+                  "content": "n",
+                  "rank": 13
+                },
+                {
+                  "subIndicatorId": "91be04b0-e8ab-412b-8116-925984821100",
+                  "title": "Rates and Ratios: Solves rates problems using common whole number facts and converts the answer to unit rates.",
+                  "content": "n",
+                  "rank": 14
+                },
+                {
+                  "subIndicatorId": "2f77894e-cdf6-4fb8-bb5b-72777984a2f3",
+                  "title": "Percentages: Solves percentage change problems.",
+                  "content": "n",
+                  "rank": 15
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+          "value": "Equations and Expressions",
+          "rank": 3,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": {
+              "goalId": "a369259e-f6da-45ac-8062-5930f65a1783",
+              "intro": "<p>Understands and uses equations and expressions at Year 0.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+                "value": "Pre-National Standards",
+                "rank": 1
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "fa5754de-30f5-403a-8a82-cbfcfd942a9b",
+                  "title": "Records and explains ‘how many’ are in a group using a combination of words, numbers and pictures.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "2797804c-db8a-47f8-bb64-49ccb22d52dd",
+                  "title": "Records and explains the forwards and backwards counting sequence up to 10 using a combination of words, numbers and pictures.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": {
+              "goalId": "baf758c3-69a2-4f2f-85c8-758a81bbde5c",
+              "intro": "<p>Understands and uses equations and expressions at Year 1</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+                "value": "After 1 Year at School",
+                "rank": 2
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "626ab361-9619-4140-a7a1-b555e809f406",
+                  "title": "Records and explains equations and number strategies using a combination of words, numbers and pictures.",
+                  "content": "n",
+                  "rank": 1
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": {
+              "goalId": "1e30d04f-27bb-4a7a-89e8-afee333f8193",
+              "intro": "<p>Understands and uses equations and expressions at Year 2.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+                "value": "After 2 Years at School",
+                "rank": 3
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "488d1665-6fda-4dd9-b03a-3d0427126464",
+                  "title": "Clearly records and explains equations and number strategies using a combination of words, numbers and pictures.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "742a9f8f-a8de-4208-9755-697be23100f6",
+                  "title": "Explains the meanings and functions of simple mathematical symbols.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": {
+              "goalId": "63c1f421-e885-41e9-adc1-cf35696b8c6d",
+              "intro": "<p>Understands and uses equations and expressions at Year 3.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+                "value": "After 3 Years at School",
+                "rank": 4
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "b1950525-bc2a-4167-9c2f-a16b3291aae6",
+                  "title": "Records and explains mathematical thinking using a combination of numbers, diagrams, symbols and the formal language of mathematics.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "c5d4ef76-c0b2-425c-8a20-1260750cb818",
+                  "title": "Creates visual representations and word problems for equations.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": {
+              "goalId": "3e8def9b-94a0-489e-a72a-26d75de0ee6e",
+              "intro": "<p>Understands and uses equations and expressions at Year 4.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+                "value": "Year 4",
+                "rank": 5
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "934effe6-0f39-4b8f-86a1-eb8d7306160e",
+                  "title": "Cleary records and explains mathematical thinking using a combination of numbers, diagrams, symbols and the formal language of mathematics.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "ec2e74be-5482-47c4-a46b-50e9f51b1ce8",
+                  "title": "Records thinking to understand what is happening in problems and to keep track of solutions.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": {
+              "goalId": "b82a0c16-7772-4999-855b-799f12cb8bac",
+              "intro": "<p>Understands and uses equations and expressions at Year 5.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+                "value": "Year 5",
+                "rank": 6
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "be24c5b0-a3cb-4942-aeef-ecc4992ccd9c",
+                  "title": "Clearly records and explains mathematical thinking using a combination of numbers, diagrams, symbols and the formal language of mathematics, with an understanding of equality.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "cc25d5eb-a763-4045-bb4a-0cf1105a82c3",
+                  "title": "Explains what the equals sign means.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": {
+              "goalId": "80f7bf4f-414a-4480-8036-92a383938f12",
+              "intro": "<p>Understands and uses equations and expressions at Year 6.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+                "value": "Year 6",
+                "rank": 7
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "073432dd-344c-4910-872a-2eaea4aef79d",
+                  "title": "Records formal equations using written algorithms to represent solutions to addition, subtraction, multiplication and division problems.",
+                  "content": "n",
+                  "rank": 1
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": {
+              "goalId": "9888ad91-d2c0-46bc-86a4-b2963b57e47c",
+              "intro": "<p>Understands and uses equations and expressions at Year 7.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+                "value": "Year 7",
+                "rank": 8
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "8b0e63f5-d6f4-4ac0-ab32-71a26b95c786",
+                  "title": "Solves simple linear equations.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "a2d96016-0083-45ce-9a50-6a834e4a2b9e",
+                  "title": "Describes the relationship between two variables in a simple linear equation.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": {
+              "goalId": "7561efff-14b7-4109-81f0-8f46529ad14b",
+              "intro": "<p>Understands and uses equations and expressions at Year 8.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "e4133411-5d34-44af-85bd-3a3248cc1ba3",
+                "value": "Equations and Expressions",
+                "rank": 3,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+                "value": "Year 8",
+                "rank": 9
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "76517be3-0239-4304-9e76-916048e7fd34",
+                  "title": "Forms and solves simple linear equations using appropriate strategies.",
+                  "content": "n",
+                  "rank": 1
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+          "value": "Patterns and Relationships",
+          "rank": 4,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": {
+              "goalId": "e92b0c49-4cfc-49b2-ae4a-cd4e690a022f",
+              "intro": "<p>Understands and uses patterns and relationships at Year 1.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+                "value": "After 1 Year at School",
+                "rank": 2
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "4daac12d-58d6-4743-8d85-9e974bf48fdd",
+                  "title": "Generalisations: Generalises that the forwards and backwards counting sequences do not change.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "576a1266-3daf-4f17-a7e1-5513cd5c3ce1",
+                  "title": "Generalisations: Generalises that the number of items in a set does not change unless objects are added or taken away.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "d7c3434b-5837-46cf-a27f-c9bed456c082",
+                  "title": "Generalisations: Generalises that the last number in a count tells how many objects are in a set.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "c7bfeb3a-0e05-41bf-8d90-4f95af1efbf1",
+                  "title": "Patterns: Identifies the unit of repeat in a repeating pattern and uses this repeating element to continue the pattern.",
+                  "content": "y",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "01d355a4-d251-4bc3-9e9a-de3caeccbb31",
+                  "title": "Patterns: Identifies the way a sequential pattern is growing and uses this growth element to continue the pattern.",
+                  "content": "y",
+                  "rank": 5
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": {
+              "goalId": "b3debaac-0c79-403c-9624-d39d0d8cb8a6",
+              "intro": "<p>Understands and uses patterns and relationships at Year 2.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+                "value": "After 2 Years at School",
+                "rank": 3
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "2940efae-436c-45cb-b3df-8e8a5d96dadb",
+                  "title": "Generalisations: Generalises that the next number in the counting sequence tells the result of adding one.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "f6e09666-0a5e-4714-a7fc-03ff156f93d6",
+                  "title": "Generalisations: Generalises that the number before in the counting sequence tells the result of subtracting one.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "c17938f6-7f11-43ac-86c2-70223381e1d6",
+                  "title": "Patterns: Creates a repeating pattern and communicates the repeating element for the pattern.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "e48b0d3a-17d8-43b2-bafd-130c5b38739e",
+                  "title": "Patterns: Creates a sequential pattern and communicates the growth element for the pattern.",
+                  "content": "n",
+                  "rank": 4
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": {
+              "goalId": "4f339129-2d09-4fe7-8b70-6fb8079c9257",
+              "intro": "<p>Understands and uses patterns and relationships at Year 3.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+                "value": "After 3 Years at School",
+                "rank": 4
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "bb7c8899-1cb1-4b2e-b13b-170dcbf86647",
+                  "title": "Generalisations: Generalises that whole numbers can be split in many ways.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "290f72fa-5373-4b71-9e77-a2962eaa73a0",
+                  "title": "Generalisations: Recognises and explains the relationships between partitions.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "5b7e8991-427d-481e-9815-f720bf4f7f19",
+                  "title": "Patterns: Identifies the rule (repeating element) and uses it to describe a repeating pattern.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "7afb31c5-dac4-4c4f-a5ed-f9fe3ed82262",
+                  "title": "Patterns: Identifies the rule (growth element) and uses it to describe a sequential pattern.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "dfdb5b4e-04dd-402d-89cf-d62dbd3e125b",
+                  "title": "Patterns: Identifies the relationship between two variables in a pattern and creates a table to communicate this.",
+                  "content": "n",
+                  "rank": 5
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": {
+              "goalId": "98f1a9d5-6604-4d35-b236-be125029a4a8",
+              "intro": "<p>Understands and uses patterns and relationships at Year 4.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+                "value": "Year 4",
+                "rank": 5
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "79515dff-66a9-47e9-b236-00e5765eb9c0",
+                  "title": "Generalisations: Generalises that whole numbers can split in ways that make operations of addition, subtraction, multiplication and division easier.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "448eb9db-ad68-438a-8209-9e3a8401766b",
+                  "title": "Generalisations: Thinks critically about how to split numbers in order to find the best strategic choice.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "05f21a82-7290-4c09-b10c-4a69d2ce9776",
+                  "title": "Patterns: Uses additive strategies to predict further members in a pattern.",
+                  "content": "n",
+                  "rank": 3
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": {
+              "goalId": "b4e82f12-f291-4717-afd2-e698b4f177c9",
+              "intro": "<p>Understands and uses patterns and relationships at Year 5.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+                "value": "Year 5",
+                "rank": 6
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "c9da9058-e80e-4d78-beaa-562ddc7fe04d",
+                  "title": "Generalsiations: Describe and apply the key properties of addition and subtraction to problems with whole numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "16af6081-d9eb-4c89-ac1b-6518096dfeee",
+                  "title": "Patterns: Identifies and describes recursive relationships between variables in a pattern.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "3a518e8f-fba8-424b-9e78-3b9e01d22603",
+                  "title": "Patterns: Creates general rules, along with tables, graphs or diagrams, to predict further members in a pattern.",
+                  "content": "n",
+                  "rank": 3
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": {
+              "goalId": "d4483758-0778-4fd1-90f7-58504bc10e9a",
+              "intro": "<p>Understands and uses patterns and relationships at Year 6.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+                "value": "Year 6",
+                "rank": 7
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "6568a3b7-603e-44df-8b01-95a0b9dd650c",
+                  "title": "Generalisations: Understands and uses the process of developing generalisations to perform mental addition and subtraction strategies effectively.",
+                  "content": "n",
+                  "rank": 0
+                },
+                {
+                  "subIndicatorId": "a4c303cc-6972-438d-a139-f32c0fcc8703",
+                  "title": "Patterns: Generates patterns arising from everyday situations and describes relationships between variables.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": {
+              "goalId": "55e1b68d-6122-4cf2-8985-f60c5f782d7f",
+              "intro": "<p>Understands and uses patterns and relationships at Year 7.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+                "value": "Year 7",
+                "rank": 8
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "251dbcdf-d1de-44cd-a340-cdd7585667d7",
+                  "title": "Generalisations: Describe and apply the key properties of multiplication and division to problems with whole numbers.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "55987c89-dcfa-45f8-bd91-8d34f697a5f1",
+                  "title": "Generalisations: Expresses generalisations using words and symbols.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "a9cf46e6-571c-435a-a784-f0a348421d62",
+                  "title": "Patterns: Identifies and describes direct relationships between variables in a pattern using tables and graphs.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "9b588878-2e37-4d14-aa31-cfe7382e676c",
+                  "title": "Patterns: Describes the function rule for linear relationships and creates tables and graphs to predict further members.",
+                  "content": "n",
+                  "rank": 4
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": {
+              "goalId": "de681a39-80a1-45ec-b1a4-7962cb5b77a2",
+              "intro": "<p>Understands and uses patterns and relationships at Year 8.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "a77c3c7f-4263-4d4b-a046-912866720024",
+                "value": "Patterns and Relationships",
+                "rank": 4,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+                "value": "Year 8",
+                "rank": 9
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "11b4e5ed-b393-4566-9c09-0794279df036",
+                  "title": "Generalisations: Understands and uses the process of developing generalisations to perform mental multiplication and division strategies effectively.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "346383c5-3ec7-4961-a6f2-399ac6eb324a",
+                  "title": "Patterns: Uses recursive methods to predict further members of a sequence where the relationship is non-linear.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "1e3bb2e7-a453-4599-866f-6a5070bc06bb",
+                  "title": "Patterns: Uses symbols to represent unknown or changing variables in order to communicate general rules.",
+                  "content": "n",
+                  "rank": 3
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+          "value": "Measurement",
+          "rank": 5,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": {
+              "goalId": "161291be-7aec-4d42-9e50-897a7f7b07a9",
+              "intro": "<p>Understands and uses measurement at Year 1.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+                "value": "After 1 Year at School",
+                "rank": 2
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "f541788c-75c9-4bb1-8d11-3ebd6426013b",
+                  "title": "Measures length, width and height, area, volume and capacity, weight (mass), temperature and time by directly comparing and ordering objects, temperatures and durations of events.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "5b66d946-b330-44eb-aa89-7cd0b2355858",
+                  "title": "Uses simple measurement and comparison language to describe measures.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": {
+              "goalId": "bcc86168-0dde-4fbb-8cbd-bab091d2cbe6",
+              "intro": "<p>Understands and uses measurement at Year 2.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+                "value": "After 2 Years at School",
+                "rank": 3
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "fd5b847a-c842-4b50-ab25-f4b4cdac241c",
+                  "title": "Measures length, width and height, area, volume and capacity, weight (mass), temprature and time by indirectly comparing and ordering objects and durations of events using non-standard units.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "478419d7-6aa4-4e16-be84-5ff57e7b521c",
+                  "title": "Identifies half turns and quarter turns in a variety of contexts.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "5c581b7f-25e8-4989-b901-fea008703685",
+                  "title": "Recognises that two quarter turns equals a half turn.",
+                  "content": "n",
+                  "rank": 3
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": {
+              "goalId": "09ad482c-a4d7-4b14-af9b-8b71a8e59e2c",
+              "intro": "<p>Understands and uses measurement at Year 3.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+                "value": "After 3 Years at School",
+                "rank": 4
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "fca3fa3d-b30f-4b73-9f47-dd69f1f2a780",
+                  "title": "Measures length, width and height, area, volume and capacity, weight (mass), and time using variable non-standard units.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "76d148d7-3eca-4e85-8d50-530063ebca81",
+                  "title": "Estimates measures using variable non-standard units.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "32bdeab0-7d27-4559-b529-e04834fda72d",
+                  "title": "Creates appropriate non-standard measurement instruments.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "821ca03b-84c2-4282-abbe-5fcbd62eda18",
+                  "title": "Solves simple (whole number) measurement problems that involve combining and partitioning like measures and communicates answers using variable non-standard units.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "c9d3f800-1cda-4c33-82d9-56ede97a462d",
+                  "title": "Understands that half turns and quarter turns may begin in any direction.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "be04aea0-c24b-4553-b41b-f19e676a2b75",
+                  "title": "Understands clockwise and anticlockwise directions.",
+                  "content": "n",
+                  "rank": 6
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": {
+              "goalId": "1e121688-6c31-4fb2-88be-3be894221bbb",
+              "intro": "<p>Understands and uses measurement at Year 4.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+                "value": "Year 4",
+                "rank": 5
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "59272517-b1b6-4c97-be42-52c73ba616e8",
+                  "title": "Recognises the need for fixed non-standard units.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "36fce78f-ced8-4d9d-b0b5-cb5f3a88f738",
+                  "title": "Measures length, width and height, area, volume and capacity, weight (mass), and time using fixed non-standard units.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "0d1a36f7-0295-4151-8508-4320fff83cde",
+                  "title": "Estimates measures using fixed non-standard units.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "8220a338-37ad-42c6-997d-11ddc9240a8d",
+                  "title": "Creates appropriate non-standard measurement instruments.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "10ff205b-9979-48df-b83f-b0c5df28d405",
+                  "title": "Solves simple (whole number) measurement problems that involve combining and partitioning like measures and communicates answers using fixed non-standard units.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "dcaa95e7-d61e-4f9d-8e2c-6638a131ccd5",
+                  "title": "Describes what an angle is.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "2c1472e9-8c2d-41fd-a78b-2eeb086275bc",
+                  "title": "Orders angles by directly comparing them.",
+                  "content": "n",
+                  "rank": 7
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": {
+              "goalId": "ff3986d1-69ad-487b-8c9a-6b7a148cff68",
+              "intro": "<p>Understands and uses measurement at Year 5.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+                "value": "Year 5",
+                "rank": 6
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "1c4a1f4a-88da-4693-a0c5-1492417cb072",
+                  "title": "Recognises the need for standard units of measurement (such as the metric system).",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "fd9299bf-5d02-42b7-9a30-d49da224ef95",
+                  "title": "Measures length, width and height, area, volume and capacity, weight (mass), temperature and time using common standard units.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "bbb26402-a505-48b9-9fe3-edde442588c5",
+                  "title": "Estimates measures using personal benchmarks.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "3aa36f13-8dd4-493a-a77b-749f65062d6b",
+                  "title": "Solves simple (whole number) measurement problems that involve combining and partitioning like measures and communicates answers using known symbols.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "c8f21a08-80b6-47c6-82db-00f2c9367a06",
+                  "title": "Uses side lengths to find the perimeter of polygons.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "eb55a79c-e218-41be-b139-bcc5d7bf77c3",
+                  "title": "Chooses the unit of measurement that is appropriate to the task.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "80657337-88e7-4588-82aa-4fa65a4d408d",
+                  "title": "Recognises common angles -  45&deg;, 90&deg;, 180&deg; and 360&deg;.",
+                  "content": "n",
+                  "rank": 6
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": {
+              "goalId": "afa980b1-012c-4998-9dd5-02279b3eab6a",
+              "intro": "<p>Understands and uses measurement at Year 6.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+                "value": "Year 6",
+                "rank": 7
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "80e9ec06-3daa-4dc0-9074-0944b811233c",
+                  "title": "Accurately measures length, width and height, volume and capacity, weight (mass), temperature and time.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "069b3e6d-c94f-4356-9af2-2e1b203070af",
+                  "title": "Estimates measurements using known units of measurement as baselines.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "dcb21dae-b042-4221-8dbe-d93393950703",
+                  "title": "Estimates temperature based on personal experiences.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "933d25de-487f-40f4-a5a0-1de62fe2afc9",
+                  "title": "Uses effective strategies to solves (whole number) measurement problems and communicates answers using known symbols.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "135d5783-383d-40c2-9ff9-c016467764c9",
+                  "title": "Articulates the meaning of the prefixes milli-, centi- and kilo-.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "3f3220a4-3194-4bdf-93a6-3e60493359c2",
+                  "title": "Articulates what square (&sup2;) and cubic (&sup3;) mean.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "b9dd8fdc-08d2-41fe-8566-29b82ec55cdc",
+                  "title": "Identifies and constructs acute, right and obtuse angles.",
+                  "content": "n",
+                  "rank": 7
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": {
+              "goalId": "c699ee84-8058-45db-b6cc-a078a6460233",
+              "intro": "<p>Understands and uses measurement at Year 7.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+                "value": "Year 7",
+                "rank": 8
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "84a61e4a-398e-4686-bc20-a35431adff0c",
+                  "title": "Recognises the common symbols for length, width and height, volume and capacity, weight (mass), temperature, time and angle, and explains what they mean.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "ae030247-0371-40a0-a04a-49e8c2f407bf",
+                  "title": "Converts between metric units.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "a23b0681-43ca-4b16-9d96-5bd56b907d58",
+                  "title": "Chooses appropriate standard measurement instruments.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "06ff2523-d405-4c20-9c2d-23a9f4405aa8",
+                  "title": "Chooses the unit of measurement that is appropriate to the task.",
+                  "content": "n",
+                  "rank": 4
+                },
+                {
+                  "subIndicatorId": "0170655b-23f9-4214-b271-01dc420015ed",
+                  "title": "Uses effective strategies to solve (decimal number) measurement problems and communicates answers using appropriate units of measure and symbols.",
+                  "content": "n",
+                  "rank": 5
+                },
+                {
+                  "subIndicatorId": "49c6eb93-fa81-4ae8-ac75-c8bbd23422e8",
+                  "title": "Uses arrays to find the area of rectangles.",
+                  "content": "n",
+                  "rank": 6
+                },
+                {
+                  "subIndicatorId": "d6b76eee-97c4-4cde-ba88-c44ba675f1e3",
+                  "title": "Measures and constructs angles using a protractor.",
+                  "content": "n",
+                  "rank": 7
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": {
+              "goalId": "10cb1da6-6348-4dac-9f46-f880c86f7858",
+              "intro": "<p>Understands and uses measurement at Year 8.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "84734561-8381-46cd-a5cb-75bbf5f811c7",
+                "value": "Measurement",
+                "rank": 5,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+                "value": "Year 8",
+                "rank": 9
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "deaea740-fba1-4df8-97b4-dce1f939fdd3",
+                  "title": "Uses effective strategies to solve measurement problems involving rates and communicates answers using appropriate symbols.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "323fa8c7-ceb6-44f8-9518-022564d914e3",
+                  "title": "Uses formulas to find the area of rectangles, parallelograms and triangles, and communicates answers using symbols.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "13b3960e-dffe-41ca-8c89-874bc29b8644",
+                  "title": "Uses the formula to find the volume of cuboids, and communicates answers using symbols.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "411ea6f4-b212-4dba-b8ea-c751d6684003",
+                  "title": "Accurately reads and interprets scales, timetables and charts, and uses the relevant information to solve problems.",
+                  "content": "n",
+                  "rank": 4
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+          "value": "Position and Orientation",
+          "rank": 6,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": {
+              "goalId": "00360dcb-0a2f-49cb-a96b-d6fbcab7c967",
+              "intro": "<p>Understands uses position and orientation at Year 1.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+                "value": "After 1 Year at School",
+                "rank": 2
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "0f15a187-346f-4fa9-92c2-1fa3c578ff00",
+                  "title": "Describes where objects or people are using everyday positional language.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "ac57010f-726a-4616-88ce-49f14ddff7ab",
+                  "title": "Gives and follows simple directions using everyday directional language.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": {
+              "goalId": "b01ec874-3fd8-4e3e-a388-8dce2419584c",
+              "intro": "<p>Understands and uses position and orientation at Year 2.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+                "value": "After 2 Years at School",
+                "rank": 3
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "38aaa8a5-f827-4fdb-8c6d-cf663cb07c27",
+                  "title": "Describes personal locations in relation to an object or person using everyday positional language.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "f907450f-6df2-4e76-ad10-50b0eb6dbf94",
+                  "title": "Gives and follows a simple sequence of directions using everyday directional language, non-standard units of length and half or quarter turns.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": {
+              "goalId": "ec450a15-7a16-4222-ae06-4756b1c0c337",
+              "intro": "<p>Understands position and orientation at Year 3.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+                "value": "After 3 Years at School",
+                "rank": 4
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "4e075ed7-1b46-4da3-9167-c01528f606cf",
+                  "title": "Describes locations on a simple map using legends, simple grid references and the four main compass points.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "093f1090-60ce-4d54-a537-b81f17f14ae6",
+                  "title": "Describes and compares pathways from one location to another on a simple map using right, left, half and quarter turns, clockwise and anti-clockwise, and main compass points.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "0995d906-ccdb-4094-968e-b90f9b7ca344",
+                  "title": "Follows directions that use right, left, half and quarter turns, main compass points and non-standard units of length.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "d7a9fbb8-ba65-4a4c-95f5-73b4027ea80d",
+                  "title": "Creates simple maps where landmarks are positioned correctly.",
+                  "content": "n",
+                  "rank": 4
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": {
+              "goalId": "cf92f396-57df-4445-be7e-a7b0d6e3b338",
+              "intro": "<p>Understands and uses position and orientation at Year 4.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+                "value": "Year 4",
+                "rank": 5
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "67bcadb7-2fed-43e3-a66e-276c7c532412",
+                  "title": "Creates and uses simple maps to describe personal locations using legends, simple grid references and the four main compass points.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "52b06a23-5df6-459b-9ae8-2e106dfa3481",
+                  "title": "Creates and uses simple maps to describe the pathway from one location to another on a map using right, left, half and quarter turns, clockwise and anti-clockwise, main compass points and approximate distances in metres (whole numbers).",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "79c13b89-1116-4a04-bb00-61056a5c95fc",
+                  "title": "Anticipates where landmarks will be from a given location by looking at a map.",
+                  "content": "n",
+                  "rank": 3
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": {
+              "goalId": "e9f433f9-d09c-4e79-82f2-2e74e0f64166",
+              "intro": "<p>Understands and uses position and orientation at Year 5.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+                "value": "Year 5",
+                "rank": 6
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "dc358844-0d5a-482f-a462-d36e05fcca70",
+                  "title": "Explains the purpose of various features on a map, such as legends, compass rose, grid references and scale.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "355a34b9-daf7-419e-b28d-396efb4c5dd4",
+                  "title": "Draws and interprets simple scale maps.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "3afd34e0-cb10-4207-b2d9-1c763bdf4b4c",
+                  "title": "Understands and uses grid references to find locations on a map.",
+                  "content": "n",
+                  "rank": 3
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": {
+              "goalId": "a147d5a0-f270-4411-bc0b-13a966e8a916",
+              "intro": "<p>Understands and uses position and orientation at Year 6.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+                "value": "Year 6",
+                "rank": 7
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "bbaf4b59-f35e-431c-815a-cc487bc9a168",
+                  "title": "Describes the pathway from one location to another using the features of a map and approximate distances in metres and kilometres (whole numbers).",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "aa77684d-8e5b-4085-ba20-51fb7fef113d",
+                  "title": "Follows a set of directions that uses turns, main compass directions and approximate distances in metres and kilometres (whole numbers) by interpreting a scale and shows that path on a map.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": {
+              "goalId": "851ab6d5-ade3-4798-877d-e96999c287e9",
+              "intro": "<p>Understands and uses position and orientation at Year 7.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+                "value": "Year 7",
+                "rank": 8
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "3c6c84ac-2fcd-47e8-a680-64d2b268fe2e",
+                  "title": "Gives and follows directions using bearings.",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "4e9f3850-9cac-4bd1-897a-7287de914c18",
+                  "title": "Draws maps with bearings using a protractor.",
+                  "content": "n",
+                  "rank": 2
+                },
+                {
+                  "subIndicatorId": "23f45af3-4c01-4ba0-a7ed-fb137bd601b5",
+                  "title": "Describes and finds locations using Cartesian and Polar coordinates.",
+                  "content": "n",
+                  "rank": 3
+                },
+                {
+                  "subIndicatorId": "7ae808f2-12de-4fb7-a8eb-66450b00088d",
+                  "title": "Draws grid reference maps to scale.",
+                  "content": "n",
+                  "rank": 4
+                }
+              ]
+            }
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": {
+              "goalId": "c6cdd83f-16d0-4233-a144-9caffcaa2ba7",
+              "intro": "<p>Understands and uses position and orientation at Year 8.</p>",
+              "subject": {
+                "id": "c28b9883-d499-45bf-9761-5a32f428fee1",
+                "value": "Mathematics"
+              },
+              "indicator": {
+                "id": "99042bd9-fcfd-4e11-b6b8-ba8bea037a4c",
+                "value": "Position and Orientation",
+                "rank": 6,
+                "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+              },
+              "year": {
+                "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+                "value": "Year 8",
+                "rank": 9
+              },
+              "indicators": [
+                {
+                  "subIndicatorId": "4174375f-8a6e-43bc-bdb6-8ecaf1a6c15b",
+                  "title": "Describes pathways and finds locations on a variety of maps using grid references, Cartesian and Polar coordinates, compass points, bearings and approximate distances (decimals).",
+                  "content": "n",
+                  "rank": 1
+                },
+                {
+                  "subIndicatorId": "8384712c-6261-4e49-9555-0ce88f0ca0b1",
+                  "title": "Follows a set of directions that uses grid references, Cartesian and Polar coordinates, compass points, bearings and approximate distances (decimals) by interpreting a scale map and shows that path on a map.",
+                  "content": "n",
+                  "rank": 2
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "3a6b1e35-610c-48e4-89f1-c754be49a29f",
+          "value": "Shape",
+          "rank": 7,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": null
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "618a1a38-6b1d-479a-9d4d-2d6fb80f3b5d",
+          "value": "Transformation",
+          "rank": 8,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": null
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "528249fa-5789-41e0-8362-5815a7839fe2",
+          "value": "Statistics",
+          "rank": 9,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": null
+          }
+        ]
+      },
+      {
+        "indicator": {
+          "id": "1e875c55-5652-4708-bea3-eb97267611c7",
+          "value": "Probabilty",
+          "rank": 10,
+          "subjectId": "c28b9883-d499-45bf-9761-5a32f428fee1"
+        },
+        "columns": [
+          {
+            "year": {
+              "id": "8c70790a-d75c-4fcf-8d1f-13641d44c584",
+              "value": "Pre-National Standards",
+              "rank": 1
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "bbeba939-f2f3-4666-8219-0723a8a262a4",
+              "value": "After 1 Year at School",
+              "rank": 2
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5c5b3262-4357-4a59-b3bb-e22babd8937d",
+              "value": "After 2 Years at School",
+              "rank": 3
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "cd0cf571-1b4b-46c1-8557-276b230f0a5d",
+              "value": "After 3 Years at School",
+              "rank": 4
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "5552da94-a9f9-4c74-8f08-0161a2497e39",
+              "value": "Year 4",
+              "rank": 5
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "ddfaac3a-c811-45df-a08e-49a971d1261b",
+              "value": "Year 5",
+              "rank": 6
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "1c6b8a35-9dfd-472c-83f1-fec839736f48",
+              "value": "Year 6",
+              "rank": 7
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "acf28933-c92d-4eac-bdfd-0e282cdf32dc",
+              "value": "Year 7",
+              "rank": 8
+            },
+            "goal": null
+          },
+          {
+            "year": {
+              "id": "7b5f6403-e470-4af2-8c9e-2560d72fdc6f",
+              "value": "Year 8",
+              "rank": 9
+            },
+            "goal": null
+          }
+        ]
+      }
+    ],
+    "output2": "0519cd1b-59a4-41f5-bfee-06a7c918d807"
+  },
+  "stateToken": "eyJqYXIiOnsidmVyc2lvbiI6InRvdWdoLWNvb2tpZUAyLjMuNCIsInN0b3JlVHlwZSI6Ik1lbW9yeUNvb2tpZVN0b3JlIiwicmVqZWN0UHVibGljU3VmZml4ZXMiOnRydWUsImNvb2tpZXMiOltdfSwidmVyc2lvbiI6MX0=",
+  "cookies": []
+}
